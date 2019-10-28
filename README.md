@@ -11,17 +11,17 @@ Instructions:
 
 2. Clone svelte-template to your main project folder:
 
-    - git clone https://github.com/sveltejs/template.git
+        - git clone https://github.com/sveltejs/template.git
     
   And Crtl + x all files on svelte-template and paste to your main project folder;
   
 
 3. Install all dependencies:
 
-    - npm i
+        - npm i
     
 
 4. Test if It's all right and start coding:
 
-    - npm run dev
+        - npm run dev
     
